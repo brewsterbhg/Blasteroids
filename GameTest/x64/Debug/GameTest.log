@@ -1,0 +1,22 @@
+﻿  GameTest.cpp
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(268): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(307): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(308): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(315): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(319): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(320): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(321): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(322): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(323): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(325): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(326): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(327): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(338): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(339): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dan\downloads\gametest\gametest\gametest.cpp(340): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameTest.vcxproj -> C:\Users\Dan\Downloads\GameTest\x64\Debug\GameTest.exe
+  C:\Users\Dan\Downloads\GameTest\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
